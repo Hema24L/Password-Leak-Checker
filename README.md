@@ -24,15 +24,15 @@ This tool helps users ensure their passwords are not compromised before using th
 
 ## ⚡Installation & Setup
 ### Backend(Flask)
-`cd Backend
+<pre>cd Backend
 pip install -r requirements.txt
-python app.py`
+python app.py</pre>
 
 ### Frontend(React)
 - Installing dependencies and start development server
-`cd frontend
+<pre>cd frontend
 npm install
-npm start`
+npm start</pre>
 
 - To run app in single server(Production) `npm run build` copy the build folder to backend and run `python app.py`
 ---
