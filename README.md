@@ -39,9 +39,9 @@ npm start</pre>
 
 ## Security note
 
-- Your actual password never sent to server or external API
-- Only first 5 characters of the SHA-1 hash are sent to HIBP(K-Anonymity model)
-- This ensures maximum privacy and security
+- Your actual password never sent to server or external API.
+- Only first 5 characters of the SHA-1 hash are sent to HIBP(K-Anonymity model).
+- This ensures maximum privacy and security.
 
 ---
 ## 🤝 Contributing
@@ -51,7 +51,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ---
 ## 🙌 Credits
 
-[Have I Been Pwned API](https://haveibeenpwned.com/API/v3) for the Passwords API
-React, Flask, and Open Source community ❤️
+- [Have I Been Pwned API](https://haveibeenpwned.com/API/v3) for the Passwords API.
+- React, Flask, and Open Source community ❤️.
 
 ---
